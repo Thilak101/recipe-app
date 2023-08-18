@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+
+}
+
+.header__left {
+    display: flex;
+    flex-direction: column;
+}
+
+.header__left h3 {
+    margin-bottom: 10px;
+    font-family: serif;
+}
+
+small {
+    margin-bottom: 30px;
+}
+
+.header__right img{
+    border-radius: 20px;
+    width: 500px;
+}

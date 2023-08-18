@@ -1,0 +1,37 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+}
+
+.nav__ul {
+  list-style: none;
+  display: flex;
+}
+
+.nav__ul li {
+  margin-left: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nav__search {
+  display: flex;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+  outline: none;
+  border: none;
+}
+
+.nav__search input {
+  border: none;
+  outline: none;
+}
+
+.nav__search input {
+  border: none;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}

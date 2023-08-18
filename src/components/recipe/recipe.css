@@ -1,0 +1,10 @@
+.recipe {
+    background-color: ghostwhite;
+    margin-top: 20px;
+    padding: 50px;
+    text-align: center;
+}
+
+.recipe h1 {
+    font-family: serif;
+}
